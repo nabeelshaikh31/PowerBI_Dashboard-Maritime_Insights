@@ -12,8 +12,8 @@ This dashboard is meticulously crafted to provide actionable insights into vesse
 This page provides a comprehensive overview of vessel activities within the port, allowing stakeholders to identify trends and patterns in trading behavior. Key features include:
 
 **Vessel Activity Analysis:**
-_Interactive visualizations display key metrics such as vessel activities, vessel actions, and vessel types, enabling stakeholders to understand trading patterns and distribution.
-_
+Interactive visualizations display key metrics such as vessel activities, vessel actions, and vessel types, enabling stakeholders to understand trading patterns and distribution.
+
 **Purpose and Activity Classification:**
 Utilizing Power BI's DAX functions and measures, I have categorized vessel activities based on their purpose (e.g., loading, unloading, stopping) and activity level (e.g., operating, waiting).
 
